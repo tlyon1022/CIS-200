@@ -1,0 +1,6 @@
+C:\Users\Tanner Lyon\Desktop\C#\Prog5\Prog5\Prog5\obj\Debug\Prog5.csproj.CoreCompileInputs.cache
+C:\Users\Tanner Lyon\Desktop\C#\Prog5\Prog5\Prog5\bin\Debug\Prog5.exe.config
+C:\Users\Tanner Lyon\Desktop\C#\Prog5\Prog5\Prog5\bin\Debug\Prog5.exe
+C:\Users\Tanner Lyon\Desktop\C#\Prog5\Prog5\Prog5\bin\Debug\Prog5.pdb
+C:\Users\Tanner Lyon\Desktop\C#\Prog5\Prog5\Prog5\obj\Debug\Prog5.exe
+C:\Users\Tanner Lyon\Desktop\C#\Prog5\Prog5\Prog5\obj\Debug\Prog5.pdb
