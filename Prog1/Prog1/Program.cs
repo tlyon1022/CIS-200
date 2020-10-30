@@ -1,7 +1,6 @@
 ﻿// Program 1A
 // CIS 200-01
 // Due: 2/13/2020
-// By: Andrew L. Wright (Students use Grading ID)
 
 // File: Program.cs
 // This file creates a small application that tests the LibraryItem hierarchy
